@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 html {
+=======
+ html {
+>>>>>>> checkpoint-23-interfaces
      height: 100%; /* makes sure our HTML takes up 100% of the browser window */
      font-size: 100%;
  }
@@ -12,7 +16,10 @@ html {
  body.landing {
      background-color: rgb(58,23,63); /* sets the background color to an RGB value (see below) */
  }
+<<<<<<< HEAD
  
+=======
+>>>>>>> checkpoint-23-interfaces
  .navbar {
      padding: 0.5rem;
      background-color: rgb(101,18,95);
