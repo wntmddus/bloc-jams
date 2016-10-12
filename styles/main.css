@@ -124,6 +124,7 @@ html {
 
  }
  
+<<<<<<< HEAD
  /* Large screens (1024px) */
  @media (min-width: 1024px) {
    /* Style information will go here */
@@ -142,3 +143,14 @@ html {
 .clearfix::after {
    clear: both;
 }
+=======
+ .ion-music-note,
+ .ion-radio-waves,
+ .ion-iphone {
+     color: rgb(233,50,117);
+     font-size: 5rem;
+ }
+ .container.narrow {
+     max-width: 56rem;
+ }
+>>>>>>> checkpoint-23-interfaces
