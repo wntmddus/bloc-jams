@@ -21,9 +21,6 @@ window.onload = function() {
              animatePoints(pointsArray);   
          }
      });
-<<<<<<< HEAD
- }
-=======
+
  }
 
->>>>>>> checkpoint-23-interfaces
