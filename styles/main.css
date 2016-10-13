@@ -14,10 +14,6 @@ html {
      color: white;             /* sets the text color to white */
      min-height: 100%;         /* says the height of the body must be, at minimum, 100% of the window */
  }
-<<<<<<< HEAD
- 
-=======
->>>>>>> checkpoint-23-interfaces
  .navbar {
      position: relative;
      padding: 0.5rem;
@@ -95,12 +91,7 @@ html {
      font-size: 1.25rem;
 
  }
-<<<<<<< HEAD
- 
-<<<<<<< HEAD
-=======
 
->>>>>>> checkpoint-23-interfaces
  /* Large screens (1024px) */
  @media (min-width: 1024px) {
    /* Style information will go here */
@@ -119,10 +110,7 @@ html {
 .clearfix::after {
    clear: both;
 }
-<<<<<<< HEAD
-=======
-=======
->>>>>>> checkpoint-23-interfaces
+
  .ion-music-note,
  .ion-radio-waves,
  .ion-iphone {
@@ -132,8 +120,4 @@ html {
  .container.narrow {
      max-width: 56rem;
  }
-<<<<<<< HEAD
->>>>>>> checkpoint-23-interfaces
-=======
 
->>>>>>> checkpoint-23-interfaces
