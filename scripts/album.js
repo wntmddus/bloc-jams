@@ -107,7 +107,7 @@ var currentlyPlayingSong = null;
      }
      var albums = [albumPicasso, albumMarconi, albumThird];
      var index = 1;
-     albumImage.addEventListener("click", function(event) {
+     $('.album-cover-art').click(function(event) {
          setCurrentAlbum(albums[index]);
          index++;
          if(index == albums.length) {
